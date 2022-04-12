@@ -22,7 +22,7 @@ My name is Breno da Cunha Campanha and I'm a Full Stack Web Developer.
  @portfolio: --> https://brenoccamp.vercel.app <--
  <br>
  @email:     brenoccamp@gmail.com
-
+<h2></h2>
 
 ## Stats
 <div>
@@ -31,11 +31,3 @@ My name is Breno da Cunha Campanha and I'm a Full Stack Web Developer.
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoccamp&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br></a>
-### 
-<img align="center" alt="brenoccamp" height="29" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Javascript Symbol" height="35" width="45" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-<img align="center" alt="HTML5 Symbol" height="35" width="45" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-<img align="center" alt="HTML5 Symbol" height="35" width="45"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
