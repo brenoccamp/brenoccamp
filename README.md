@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 -->
 My name is Breno da Cunha Campanha and I'm a Full Stack Web Developer.
 - I'm 29 years old and love to talk about technology, philosophy and play sports.
+
 - Currently I'm living in Brazil and learning about OOP and <img src="https://camo.githubusercontent.com/15569ddae589aac1f190bb8f480c3f1947ae54ceb78fcc0a4e9bcf5688718189/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970657363726970742d77686974653f7374796c653d666c61742d73717561726526636f6c6f723d313931396666266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" alt="Typescript badge">.
 <h2></h2>
 - 📫 How to reach me:<br>
