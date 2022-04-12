@@ -12,11 +12,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My name is Breno da Cunha Campanha and I'm a Full Stack Web Developer.
+- I'm 29 years old and love to talk about technology, philosophy and play sports.
+- 
 
 - 📫 How to reach me:<br>
-
- @linkedin:  https://www.linkedin.com/in/brenoccamp/<br>
- @portfolio: https://brenoccamp.vercel.app<br>
+ <a href="https://www.linkedin.com/in/brenoccamp/" rel="nofollow">
+ <img src="https://img.shields.io/badge/-brenoccamp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brenoccamp/"  https://www.linkedin.com/in/brenoccamp/</a>
+ <br>
+ @portfolio: https://brenoccamp.vercel.app
+ <br>
  @email:     brenoccamp@gmail.com
 
 
