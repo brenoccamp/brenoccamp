@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning TypeScript <
-
+My name is Breno da Cunha Campanha and I'm a Full stack web developer.
 
 - 📫 How to reach me:<br>
 
