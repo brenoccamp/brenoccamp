@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-                      -https://www.linkedin.com/in/brenoccamp/
-- 📫 How to reach me: -brenoccamp@gmail.com
-                      -https://brenoccamp.vercel.app
+- 📫 How to reach me:
+ @linkedin:  https://www.linkedin.com/in/brenoccamp/
+ @email:     brenoccamp@gmail.com
+ @portfolio: https://brenoccamp.vercel.app
 
 ## Breno da Cunha Campanha
 <div>
