@@ -27,7 +27,6 @@ My name is Breno da Cunha Campanha and I'm a Full Stack Web Developer.
 <h2></h2>
 ### I use daily
 
-<h2></h2>
 ### Stats
 <div>
 <a href="https://github.com/brenoccamp">
