@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 📫 How to reach me:
- @linkedin:  https://www.linkedin.com/in/brenoccamp/
- @email:     brenoccamp@gmail.com
+- 📫 How to reach me:<br>
+ @linkedin:  https://www.linkedin.com/in/brenoccamp/<br>
+ @email:     brenoccamp@gmail.com<br>
  @portfolio: https://brenoccamp.vercel.app
 
 ## Breno da Cunha Campanha
