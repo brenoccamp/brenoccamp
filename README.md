@@ -18,7 +18,7 @@ My name is Breno da Cunha Campanha and I'm a Full Stack Web Developer.
 
 <h3>📫 Reach me on Likedin, Gmail, Portfolio:</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-phramos07-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brenoccamp/)](https://www.linkedin.com/in/brenoccamp/)
+[![Linkedin Badge](https://img.shields.io/badge/-brenoccamp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brenoccamp/)](https://www.linkedin.com/in/brenoccamp/)
 [![Gmail Badge](https://img.shields.io/badge/-brenoccamp@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brenoccamp@gmail.com)](mailto:brenoccamp@gmail.com)
 
  <br>
