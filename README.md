@@ -16,8 +16,8 @@ My name is Breno da Cunha Campanha and I'm a Full Stack Web Developer.
 - 
 
 - 📫 How to reach me:<br>
- ><a href="https://www.linkedin.com/in/brenoccamp/" rel="nofollow">
- <img src="https://img.shields.io/badge/-brenoccamp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brenoccamp/"  </a><
+ <a href="https://www.linkedin.com/in/brenoccamp/" rel="nofollow">
+ <img src="https://img.shields.io/badge/-brenoccamp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brenoccamp/"  </a>
  <br>
  @portfolio: https://brenoccamp.vercel.app
  <br>
