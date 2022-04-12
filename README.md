@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 - 📫 How to reach me:<br>
  @linkedin:  https://www.linkedin.com/in/brenoccamp/<br>
- @email:     brenoccamp@gmail.com<br>
- @portfolio: https://brenoccamp.vercel.app
+ @portfolio: https://brenoccamp.vercel.app<br>
+ @email:     brenoccamp@gmail.com
 
 ## Breno da Cunha Campanha
 <div>
