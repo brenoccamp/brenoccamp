@@ -12,14 +12,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My name is Breno da Cunha Campanha and I'm a Full Stack Web Developer.
-<h2></h2>
+
 - 📫 How to reach me:<br>
+
  @linkedin:  https://www.linkedin.com/in/brenoccamp/<br>
  @portfolio: https://brenoccamp.vercel.app<br>
  @email:     brenoccamp@gmail.com
 
 
-## Breno da Cunha Campanha
+## Stats
 <div>
 <a href="https://github.com/brenoccamp">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenoccamp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
