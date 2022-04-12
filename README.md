@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Breno da Cunha Campanha and I'm a Full stack web developer.
+My name is Breno da Cunha Campanha and I'm Full Stack Web Developer.
 
 - 📫 How to reach me:<br>
  @linkedin:  https://www.linkedin.com/in/brenoccamp/<br>
