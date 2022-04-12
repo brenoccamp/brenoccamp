@@ -24,7 +24,7 @@ My name is Breno da Cunha Campanha and I'm a Full Stack Web Developer.
  <br>
  @portfolio: https://brenoccamp.vercel.app
  <br>
- @email:     brenoccamp@gmail.com
+
 <h2></h2>
 <h3>I use daily</h3>
 
