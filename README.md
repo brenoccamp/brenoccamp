@@ -23,9 +23,11 @@ Here are some ideas to get you started:
 </div>
 <div style="display: inline_block"><br>
 <img align="center" alt="brenoccamp" height="29" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="brenoccamp-HTML" height="35" width="45" 
+<img align="center" alt="Javascript Symbol" height="35" width="45" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-<img align="center" alt="brenoccamp-CSS" height="35" width="45" 
+<img align="center" alt="HTML5 Symbol" height="35" width="45" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-<img align="center" alt="brenoccamp-CSS" height="35" width="45" 
+<img align="center" alt="HTML5 Symbol" height="35" width="45"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+<img align="center" alt="CSS Symbol" height="35" width="45" 
 src="https://cdn.jsdelivr.net/gh/d
