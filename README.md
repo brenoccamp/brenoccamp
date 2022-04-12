@@ -16,7 +16,7 @@ My name is Breno da Cunha Campanha and I'm a Full Stack Web Developer.
 
 - Currently I'm living in Brazil and learning about OOP and <img src="https://camo.githubusercontent.com/15569ddae589aac1f190bb8f480c3f1947ae54ceb78fcc0a4e9bcf5688718189/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970657363726970742d77686974653f7374796c653d666c61742d73717561726526636f6c6f723d313931396666266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" alt="Typescript badge">.
 
-<h2>📫 How to reach me on likedin, gmail or by accessing my portfolio:</h2>
+<h3>📫 How to reach me: likedin, gmail or by accessing my portfolio:</h3>
  <a href="https://www.linkedin.com/in/brenoccamp/" rel="nofollow">
  <img src="https://img.shields.io/badge/-brenoccamp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brenoccamp/">  </a>
  <br>
