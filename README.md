@@ -12,12 +12,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My name is Breno da Cunha Campanha and I'm a Full Stack Web Developer.
-<h2>
+<hr>
 - 📫 How to reach me:<br>
  @linkedin:  https://www.linkedin.com/in/brenoccamp/<br>
  @portfolio: https://brenoccamp.vercel.app<br>
  @email:     brenoccamp@gmail.com
-<h2>
+
 
 ## Breno da Cunha Campanha
 <div>
