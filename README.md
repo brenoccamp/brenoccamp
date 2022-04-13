@@ -30,7 +30,7 @@ My name is Breno da Cunha Campanha and I'm a Full Stack Web Developer.
 ![Bash](https://img.shields.io/badge/-Bash-white?style=flat-square&color=cccccc&logo=gnubash&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![JS](https://img.shields.io/badge/-Javascript-white?style=flat-square&color=F8FF00&logo=javascript&logoColor=black)<br>
+![JS](https://img.shields.io/badge/-Javascript-white?style=flat-square&color=F8FF00&logo=javascript&logoColor=black)<br><br>
 ![TS](https://img.shields.io/badge/-Typescript-white?style=flat-square&color=1919ff&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-232F3E?style=flat-square&logo=microsoftsqlserver&color=b2b2b2&logoColor=black)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
