@@ -34,6 +34,7 @@ My name is Breno da Cunha Campanha and I'm a Full Stack Web Developer.
 ![JS](https://img.shields.io/badge/-Javascript-white?style=flat-square&color=F8FF00&logo=javascript&logoColor=black)<br>
 ![Docker](https://img.shields.io/badge/Docker-6464f6?style=flat-square&logo=docker&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-232F3E?style=flat-square&logo=microsoftsqlserver&color=b2b2b2&logoColor=black)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 <h2></h2>
 ### Stats
