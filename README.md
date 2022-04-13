@@ -38,16 +38,12 @@ My name is Breno da Cunha Campanha and I'm a Full Stack Web Developer.
 
 <h2></h2>
 <h3>Languages or tools that I have already used in a project</h3>
+
 ![React](https://img.shields.io/badge/-React-white?style=flat-square&color=00ffff&logo=react&logoColor=black)
-
 ![JS](https://img.shields.io/badge/-Javascript-white?style=flat-square&color=F8FF00&logo=javascript&logoColor=black)
-
 ![NodeJS](https://img.shields.io/badge/-NodeJS-white?style=flat-square&color=green&logo=nodedotjs&logoColor=white)
-
 ![Express](https://img.shields.io/badge/-Express-white?style=flat-square&color=white&logo=express&logoColor=black)
-
 ![SQL](https://img.shields.io/badge/SQL-232F3E?style=flat-square&logo=microsoftsqlserver&color=b2b2b2&logoColor=black)
-
 ![GitHubActions](https://img.shields.io/badge/-GitHub%20Actions-181717?style=flat-square&logo=githubactions&color=white)
 
 
