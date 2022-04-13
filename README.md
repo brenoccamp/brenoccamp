@@ -29,12 +29,12 @@ My name is Breno da Cunha Campanha and I'm a Full Stack Web Developer.
 
 ![Bash](https://img.shields.io/badge/-Bash-white?style=flat-square&color=cccccc&logo=gnubash&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)<br>
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![JS](https://img.shields.io/badge/-Javascript-white?style=flat-square&color=F8FF00&logo=javascript&logoColor=black)<br>
-![Docker](https://img.shields.io/badge/Docker-6464f6?style=flat-square&logo=docker&logoColor=white)
+![TS](https://img.shields.io/badge/-Typescript-white?style=flat-square&color=1919ff&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-232F3E?style=flat-square&logo=microsoftsqlserver&color=b2b2b2&logoColor=black)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+
 
 <h2></h2>
 <h3>Languages or tools that I have already used in a project</h3>
@@ -46,6 +46,8 @@ My name is Breno da Cunha Campanha and I'm a Full Stack Web Developer.
 ![Express](https://img.shields.io/badge/-Express-white?style=flat-square&color=white&logo=express&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-232F3E?style=flat-square&logo=microsoftsqlserver&color=b2b2b2&logoColor=black)
 ![GitHubActions](https://img.shields.io/badge/-GitHub%20Actions-181717?style=flat-square&logo=githubactions&color=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-6464f6?style=flat-square&logo=docker&logoColor=white)
 
 
 ### Stats
