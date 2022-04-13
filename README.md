@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 My name is Breno da Cunha Campanha and I'm a Full Stack Web Developer.
 - I'm 29 years old and love to talk about technology, philosophy and play sports.
 
-- Currently I'm living in Brazil and learning about OOP and <img src="https://camo.githubusercontent.com/15569ddae589aac1f190bb8f480c3f1947ae54ceb78fcc0a4e9bcf5688718189/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970657363726970742d77686974653f7374796c653d666c61742d73717561726526636f6c6f723d313931396666266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" alt="Typescript badge">.
+- Currently I'm living in Brazil and learning about OOP and ![TS](https://img.shields.io/badge/-Typescript-white?style=flat-square&color=1919ff&logo=typescript&logoColor=white).
 
 <h3>📫 Reach me on Likedin, Gmail, Portfolio:</h3>
 
@@ -26,6 +26,10 @@ My name is Breno da Cunha Campanha and I'm a Full Stack Web Developer.
 
 <h2></h2>
 <h3>I use daily</h3>
+![Bash](https://img.shields.io/badge/-Bash-white?style=flat-square&color=cccccc&logo=gnubash&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
 ### Stats
 <div>
