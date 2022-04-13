@@ -45,7 +45,8 @@ My name is Breno da Cunha Campanha and I'm a Full Stack Web Developer.
 ![NodeJS](https://img.shields.io/badge/-NodeJS-white?style=flat-square&color=green&logo=nodedotjs&logoColor=white)<br><br>
 ![Express](https://img.shields.io/badge/-Express-white?style=flat-square&color=white&logo=express&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-232F3E?style=flat-square&logo=microsoftsqlserver&color=b2b2b2&logoColor=black)
-![GitHubActions](https://img.shields.io/badge/-GitHub%20Actions-181717?style=flat-square&logo=githubactions&color=white)
+![GitHubActions](https://img.shields.io/badge/-GitHub%20Actions-181717?style=flat-square&logo=githubactions&color=white)<br><br>
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-6464f6?style=flat-square&logo=docker&logoColor=white)<br><br>
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
