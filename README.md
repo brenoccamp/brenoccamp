@@ -37,7 +37,7 @@ My name is Breno da Cunha Campanha and I'm a Full Stack Web Developer.
 
 
 <h2></h2>
-<h3>Languages and tools that I have used in a project</h3>
+<h3>Languages and tools that I've used in a project</h3>
 
 ![React](https://img.shields.io/badge/-React-white?style=flat-square&color=00ffff&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
