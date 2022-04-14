@@ -38,6 +38,7 @@ My name is Breno da Cunha Campanha and I'm a Full Stack Web Developer.
 
 <h2></h2>
 <h3>Languages and tools that I've used in a project</h3>
+<h3>Front-end</h3>
 
 ![React](https://img.shields.io/badge/-React-white?style=flat-square&color=00ffff&logo=react&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -61,11 +62,12 @@ My name is Breno da Cunha Campanha and I'm a Full Stack Web Developer.
 
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![SUPABASE](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
+![CHAI](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
 ![COMPOSER](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white)<br><br>
 
 ![INSOMNIA](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
 ![POSTMAN](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![SUPABASE](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### Stats
 <div>
