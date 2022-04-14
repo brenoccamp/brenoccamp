@@ -38,7 +38,6 @@ My name is Breno da Cunha Campanha and I'm a Full Stack Web Developer.
 
 <h2></h2>
 <h3>Languages and tools that I've used in a project</h3>
-<h3>Front-end</h3>
 
 ![React](https://img.shields.io/badge/-React-white?style=flat-square&color=00ffff&logo=react&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
