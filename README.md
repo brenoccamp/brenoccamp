@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My name is Breno da Cunha Campanha and I'm a Full Stack Web Developer.
-- I'm 29 years old and love to talk about technology, philosophy and play sports.
+- I'm 30 years old and love to talk about technology, philosophy and play sports.
 
 - Currently I'm living in Brazil and learning about OOP and ![TS](https://img.shields.io/badge/-Typescript-white?style=flat-square&color=1919ff&logo=typescript&logoColor=white).
 
