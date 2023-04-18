@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 My name is Breno da Cunha Campanha and I'm a Full Stack Web Developer.
 - I'm 30 years old and love to talk about technology, philosophy and play sports.
 
-- Currently I'm living in Brazil and learning about OOP and ![TS](https://img.shields.io/badge/-Typescript-white?style=flat-square&color=1919ff&logo=typescript&logoColor=white).
+- Currently I'm living in Brazil and working at Stattus4. We are a "green startup". We combine technology and sustainability for the good of the planet and business.
 
 <h3>📫 Reach me on Likedin, Gmail, Portfolio:</h3>
 
